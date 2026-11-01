@@ -1,4 +1,4 @@
-# 📝 C Task Manager
+# 📝 C Todo List
 
 Một ứng dụng quản lý công việc đơn giản được viết bằng C, cho phép người dùng tạo và quản lý danh sách công việc trực tiếp trên terminal.
 
