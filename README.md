@@ -24,19 +24,19 @@ Các thư viện chuẩn như `stdio.h`, `stdlib.h`, `string.h`.
 Biên dịch bằng GCC:
 
 ```bash
-gcc main.c -o task_manager
+gcc main.c -o todo_list
 ```
 
 Chạy ứng dụng:
 
 ```bash
-./task_manager
+./todo_list
 ```
 
 Trên Windows:
 
 ```powershell
-.\task_manager.exe
+.\todo_list.exe
 ```
 
 ## 💡 What I Learned
